@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
